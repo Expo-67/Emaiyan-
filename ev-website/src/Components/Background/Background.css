@@ -1,0 +1,13 @@
+.background {
+  height: 100%;
+  width: 100%;
+  float: left;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  bottom: 0;
+  object-fit: cover;
+  padding: none;
+  right: 0;
+}
